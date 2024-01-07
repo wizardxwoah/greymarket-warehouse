@@ -44,12 +44,16 @@ title: Biden Disaster Timeline
 ### October
 ### November
 ### December
+- Biden's Department of Homeland Security delays <a href="https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline
+">REAL ID</a> enforcement by 2 years.
 
 # 2023
 
 ### January
 ### February
-### March
+- Biden <a href="[https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline](https://www.bloomberg.com/news/articles/2023-02-24/biden-defends-ohio-train-wreck-response-not-planning-visit
+### March)
+">fails to visit</a> East Palestine, Ohio after train derailment chemical explosion
 ### April
 ### May
 - Biden Administration allows <a href="https://www.bbc.com/news/world-us-canada-65477653">Title 42</a> immigration policy to expire.
@@ -57,7 +61,8 @@ title: Biden Disaster Timeline
 - <a href="https://nypost.com/2023/06/13/rose-montoya-exposes-breasts-during-white-house-pride-party-after-meeting-biden/">NSFW</a> Pride parade on the White House Lawn.
 ### July
 ### August
-- <a href="https://apnews.com/article/biden-iran-us-prisoners-swap-deal-billions-e17dc67521798a2836ab4a3213e9277b">$6 Billion</a> dollars given to hostile Iranian regime. 
+- <a href="https://apnews.com/article/biden-iran-us-prisoners-swap-deal-billions-e17dc67521798a2836ab4a3213e9277b">$6 Billion</a> dollars given to hostile Iranian regime.
+- Biden <a href="[https://apnews.com/article/biden-iran-us-prisoners-swap-deal-billions-e17dc67521798a2836ab4a3213e9277b](https://www.forbes.com/sites/willskipworth/2023/08/15/biden-announces-visit-to-hawaii-wildfire-site-after-criticisms-over-his-slow-public-response/?sh=3a7730f071a3)">reluctantly visits</a> Hawaii after disasterous wildfires.
 ### September
 ### October
 - American credit card debt reaches over  <a href="https://www.forbes.com/sites/forbesfinancecouncil/2023/10/24/americans-now-have-1-trillion-in-credit-card-debt-heres-why/?sh=3c4305a265a1">$1 Trillion</a>
