@@ -84,7 +84,5 @@ title: Biden Disaster Timeline
 ### November
 ### December
 
-<a href=""></a>
-
 ---
 #politics
