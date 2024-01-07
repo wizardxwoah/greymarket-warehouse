@@ -83,7 +83,8 @@ title: Biden Disaster Timeline
 
 <a href=""></a>
 
-I voted for Biden. I apologize for that mistake.
+> [!Info]+ I voted for Biden.
+> I apologize for that mistake.
 
 ---
 #politics
