@@ -14,15 +14,14 @@ Even if you do not care about sports, It's a little sad that such a major brand 
 
 I want to point out why the Houston Texans in particular have horrendous branding.
 
-Imagine if there were teams called:
-
-- Mexico City Mexicans
-- Los Angeles Californians
-- New England New Englanders
-- Seattle Washingtonians
-- Miami Floridians
-- New York New Yorkers
-- Vancouver British Columbians
+> [!example]+ Imagine if there were teams called:
+> - Mexico City Mexicans
+> - Los Angeles Californians
+> - New England New Englanders
+> - Seattle Washingtonians
+> - Miami Floridians
+> - New York New Yorkers
+> - Vancouver British Columbians
 
 Those look pretty bad right? Extremely low effort? 
 
