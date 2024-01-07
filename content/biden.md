@@ -31,7 +31,7 @@ title: Biden Disaster Timeline
 
 ### January
 ### February
-- Biden's Department of State fails to minimize the Russia-Ukraine tensions with sanctions. A <a href="https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine">hot war</a> breaks out in Europe. 
+- Biden's Department of State fails to minimize the Russia-Ukraine tensions with sanctions. A <a href="https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine">hot war</a> breaks out in Europe. This war is ongoing nearly 2 years later. Discussions around it are typically censored on most mainstream platforms.
 ### March
 ### April
 ### May
@@ -51,9 +51,8 @@ title: Biden Disaster Timeline
 
 ### January
 ### February
-- Biden <a href="[https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline](https://www.bloomberg.com/news/articles/2023-02-24/biden-defends-ohio-train-wreck-response-not-planning-visit
+- Biden <a href="[https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline](https://www.bloomberg.com/news/articles/2023-02-24/biden-defends-ohio-train-wreck-response-not-planning-visit">fails to visit</a> East Palestine, Ohio after train derailment chemical explosion
 ### March)
-">fails to visit</a> East Palestine, Ohio after train derailment chemical explosion
 ### April
 ### May
 - Biden Administration allows <a href="https://www.bbc.com/news/world-us-canada-65477653">Title 42</a> immigration policy to expire.
