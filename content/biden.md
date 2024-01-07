@@ -51,7 +51,7 @@ title: Biden Disaster Timeline
 
 ### January
 ### February
-- Biden <a href="[https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline](https://www.bloomberg.com/news/articles/2023-02-24/biden-defends-ohio-train-wreck-response-not-planning-visit">fails to visit</a> East Palestine, Ohio after train derailment chemical explosion
+- Biden <a href="[https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline](https://www.bloomberg.com/news/articles/2023-02-24/biden-defends-ohio-train-wreck-response-not-planning-visit">fails to visit</a> East Palestine, Ohio after train derailment chemical explosion.
 ### March)
 ### April
 ### May
@@ -68,8 +68,9 @@ title: Biden Disaster Timeline
 - <a href="https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war">Israel</a> plunged into war after HAMAS launches quantities of munitions that overwhlemed the Iron Dome. Biden White House initially vocally pro-Israel. Backtracks after liberals support terrorism.
 ### November
 - <a href="https://www.reuters.com/world/us/pentagon-fails-audit-sixth-year-row-2023-11-16/
-">Pentagon</a> fails audit for 6th year in a row.
+">Pentagon</a> fails audit for 6th year in a row. Albiet this started in the Trump Administration, clearly nothing has been done to change course.
 ### December
+- U.S. Military Personnel drops to its <a href="https://www.cf.org/news/us-enters-2024-with-smallest-military-in-80-years/">lowest</a> count since Pre-WW2 America.
 
 # 2024
 
