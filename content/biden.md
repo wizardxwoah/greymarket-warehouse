@@ -5,7 +5,8 @@ title: Biden Disaster Timeline
 # 2021
 
 ### January
-- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/">Executive Order</a> Reversing Trump Executive Order from 2020, allowing illegal discriminatory hiring practices in the government.
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/">Biden Executive Order</a> revoking a <a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-combating-race-sex-stereotyping/">Trump Executive Order</a> from 2020, and "empowering minorities" by allowing illegal discriminatory hiring practices in the government.
+  
 - <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/">Executive Order</a> cancelling the keystone pipeline.
 
 ### February
