@@ -39,7 +39,7 @@ title: Biden Disaster Timeline
 ### June
 ### July
 ### August
-- Biden champions the <a href="https://en.wikipedia.org/wiki/Inflation_Reduction_Act">Inflation Reduction Act.</a>   A bill that increased government spending.
+- Biden champions the <a href="https://en.wikipedia.org/wiki/Inflation_Reduction_Act">Inflation Reduction Act.</a>   A bill that increased government spending. This bill also initially designated hiring for 87,000 new IRS agents.
 ### September
 ### October
 ### November
