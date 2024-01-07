@@ -2,6 +2,9 @@
 title: Biden Disaster Timeline
 ---
 
+> [!Info]+ I voted for Biden.
+> I apologize for that mistake.
+
 # 2021
 
 ### January
@@ -82,9 +85,6 @@ title: Biden Disaster Timeline
 ### December
 
 <a href=""></a>
-
-> [!Info]+ I voted for Biden.
-> I apologize for that mistake.
 
 ---
 #politics
