@@ -41,7 +41,9 @@ A brand new Office of the Commander in Chief should be established to independen
 
 The newly established Office of the Commander in Chief should be a democratically elected position. This election should be an isolated election not open to U.S. civilians or non-citizens. Only current serving members of the United States Military and Veterans will be allowed to participate in this election. Voting rights for newly enlisted members should be restricted, and a minimum of 1 year of service should be required to prevent artificial injections of new recruits from swaying elections.
 
-There should be an impeachment process as well. The impeachment process should be restricted to Non-Commissioned Officers, the demographic dubbed as "the backbone of the military". If a majority of combat experienced wish to do so, they should be able to call for impeachment and call for emergency elections. It's there ass on the line after all.
+There should be an impeachment process as well. The impeachment process should be restricted to Non-Commissioned Officers, the demographic dubbed as "the backbone of the military". If a majority of combat experienced active duty members and combat experienced veterans wish to do so, they should be able to call for impeachment and call for emergency elections. 
+
+It's their ass on the line after all. We will always need boots on the ground for certain things. You can't use drone strikes for everything; just look at how that worked out in Yemen and Syria. Final reminder that many of drone strikes were authorized by someone overwhelmining elected by civilians. 
 
 # Final thoughts
 
