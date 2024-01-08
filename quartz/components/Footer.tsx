@@ -17,6 +17,9 @@ export default ((opts?: Options) => {
         Contact: wizardxwoah@proton.me
         </p>
         <p>
+        ~Note~ If you're on a desktop browser, setting your Page Zoom to 80% is a better user experience.
+        </p>
+        <p>
           ~Made with <a href="https://quartz.jzhao.xyz/">Quartz</a> 💠
         </p>
         <ul>
