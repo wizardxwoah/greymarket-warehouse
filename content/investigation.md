@@ -21,3 +21,8 @@ title: Thesis Ideas
 
 > [!info]- Mathematically Debunking the Soft-on-Crime Approach
 > This study aims to capitalize off the recent success of Bukele's crackdown on gang activity, and the rise of crime in U.S. urban centers that have adopted soft-on-crime policy. This study aims to prove that broken windows policing, overly generalized rehabilitive approaches, cooperation with crime syndicates, and the philosophy that "poverty breeds crime" are all fundamentally incorrect and lead to worse outcomes. This study would analyze American rhetoric around "Defund the police" in contrast with 1990's U.S. three strikes policy. This study would aim to dissolve American racial rhetoric surrounding crime policy by incorporating international policy decisions around crime, including but not limited to: Tough-On-Crime approaches from Singapore, Japan, El Slavador, South Korea, United Arab Emirates, Qatar. Additionally: Outcomes of Insufficient Policing from Brasil, Mexico, India. This study will ignore failed states, data from nations with stable regimes is a more appropriate for isolating the control variable of crime policy.
+
+
+
+---
+If anyone ever uses one of these topics for their research paper, please let me know so I can mark the topic green and cite your work!
