@@ -1,12 +1,12 @@
 ---
-title: Commander-in-Chief Should Not be a U.S. Presidential Role
+title: An Independent Commander-in-Chief
 ---
 
 > [!hint] This will be controversial
 
 # Centralized powers
 
-I personally do not believe the role of commander-in-chief should be a presidential role in the united states of America.
+I personally do not believe the role of commander-in-chief should be a presidential role in the United States of America.
 
 > [!examples]+ Major functions the Executive Branch, and therefore President, controls the following.
 > - Department of Defense: ==The Army==, ==The Navy==, ==The Marines==, ==The Air Force==, as well as ==The DIA== and ==The NSA==.
@@ -25,7 +25,7 @@ I personally do not believe the role of commander-in-chief should be a president
 > - Department of the Interior: Responsible for federally owned land. It also administers programs for American Indians, Native Alaskans, and Native Hawaiians.
 > - The Head of ==The CIA== also has a seat on the President's executive cabinet.
 
-There is way too much power condensed into the office. Coupling that with the slowness and inefficiency of the legislative branch (Congress), and the judicial branch (Supreme Court), it's really not surprising that the winner of the presidential election is able to steamroll their agenda through and move as a forceful bloc. Regardless of political leaning, the Executive branch is set up to be the dominate force in the current government.
+There is way too much power condensed into the office. Coupling that with the slowness and inefficiency of the legislative branch (Congress), and the judicial branch (Supreme Court), it's really not surprising that the winner of the presidential election is able to steamroll their agenda through and move as a forceful bloc. Regardless of political leaning, the Executive branch is set up to be the dominant force in the current government.
 
 According to U.S. law, the Senate decides if we can declare war or not. That rule is obsolete and has a lot of loopholes, giving the Commander in Chief full authority to deploy troops for military operations and to authorize drone strikes.
 
