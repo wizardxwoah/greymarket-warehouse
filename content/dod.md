@@ -53,4 +53,4 @@ Despite this, I believe it's necessary for the military to be able to decide it'
 
 I know the original intent was civilian oversight of the military, but I truly do not believe civilians should be resonsible for where men and women are sent to potentially die. The military is a very small percentage of the population. We have a voluntary military. Nobody is forced to join. Give them their own say.
 
-#politics #culture #oddball
+#politics #culture
