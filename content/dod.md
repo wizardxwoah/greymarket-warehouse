@@ -8,7 +8,7 @@ title: An Independent Commander-in-Chief
 
 I personally do not believe the role of commander-in-chief should be a presidential role in the United States of America.
 
-> [!examples]+ Major functions the Executive Branch, and therefore President, controls the following.
+> [!examples]+ Major functions the Executive Branch. The President is the boss of the following:
 > - Department of Defense: ==The Army==, ==The Navy==, ==The Marines==, ==The Air Force==, as well as ==The DIA== and ==The NSA==.
 > - Department of Veterans Affairs: Responsible for servicemember caretaking and assistance.
 > - Department of State: Foreign policy.
