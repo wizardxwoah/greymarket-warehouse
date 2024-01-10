@@ -19,9 +19,9 @@ I personally do not believe the role of commander-in-chief should be a president
 > - Department of Energy: Energy policy.
 > - Deparmtnet of Commerce: Import and Export policy, can decide which products are banned or more expensive.
 > - Department of Transportation: Albiet not as influential as regional Transportation Secretaries, there is a budgeting aspect and an overall agenda-setting role here.
-> - Department of Agriculture: Government's interaction with domestic food production. Additionally responsible for welfare program SNAP; the largest part of their budget.
+> - Department of Agriculture: Government's interaction with domestic food production. Additionally responsible for welfare program ==SNAP==; the largest part of their budget.
 > - Department of Health and Human Services: ==The FDA==, ==The CDC==, ==The NIH==, as well as ==Medicare== and ==Medicaid== all reside here.
-> - Department of Labor: Generates government numbers of unemployment, and determines government interaction and policy on labor unions.
+> - Department of Labor: ==Bureau of Labor Statistics== ublishes government unemployment statistics, other labor market economic data, and determines government interaction and policy on labor unions.
 > - Department of the Interior: Responsible for federally owned land. It also administers programs for American Indians, Native Alaskans, and Native Hawaiians.
 > - The Head of ==The CIA== also has a seat on the President's executive cabinet.
 > > [!info]+  The President is the boss of everything listed above.
