@@ -17,12 +17,12 @@ I personally do not believe the role of commander-in-chief should be a president
 > - Department of Homeland Security: Border security and immigration policy.
 > - Department of Justice: ==The FBI==.
 > - Department of Energy: Energy policy.
+> - Department of Agriculture: Government's interaction with domestic food production. Additionally responsible for the major welfare program ==SNAP==; the largest part of their budget.
 > - Deparmtnet of Commerce: Import and Export policy, can decide which products are banned or more expensive.
 > - Department of Transportation: Albiet not as influential as regional Transportation Secretaries, there is a budgeting aspect and an overall agenda-setting role here.
-> - Department of Agriculture: Government's interaction with domestic food production. Additionally responsible for welfare program ==SNAP==; the largest part of their budget.
 > - Department of Health and Human Services: ==The FDA==, ==The CDC==, ==The NIH==, as well as ==Medicare== and ==Medicaid== all reside here.
-> - Department of Labor: ==Bureau of Labor Statistics== ublishes government unemployment statistics, other labor market economic data, and determines government interaction and policy on labor unions.
-> - Department of the Interior: Responsible for federally owned land. It also administers programs for American Indians, Native Alaskans, and Native Hawaiians.
+> - Department of Labor: ==Bureau of Labor Statistics== publishes government unemployment statistics, other labor market economic data, and determines government interaction and policy on labor unions.
+> - Department of the Interior: Responsible for federally owned land. This department commands ==The National Park Service==. It also administers programs for American Indians, Native Alaskans, and Native Hawaiians.
 > - The Head of ==The CIA== also has a seat on the President's executive cabinet.
 > > [!info]+  The President is the boss of everything listed above.
 > > He or She can ultimately have the final say in any decisions made, can direclty request things from any department or agency, and is going to drive the agenda + overrall direction + goals these Departments will work towards, with rhetoric, executive orders, signing congressional bills, veto powers, and other things in the presidential toolkit.
