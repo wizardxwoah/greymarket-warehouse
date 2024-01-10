@@ -8,7 +8,7 @@ title: An Independent Commander-in-Chief
 
 I personally do not believe the role of commander-in-chief should be a presidential role in the United States of America.
 
-> [!examples]+ Major functions the Executive Branch:
+> [!examples]+ Major functions of the Executive Branch:
 > - Department of Defense: ==The Army==, ==The Navy==, ==The Marines==, ==The Air Force==, as well as ==The DIA== and ==The NSA==.
 > - Department of Veterans Affairs: Responsible for servicemember caretaking and assistance.
 > - Department of State: Foreign policy.
