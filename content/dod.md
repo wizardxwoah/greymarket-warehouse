@@ -24,7 +24,8 @@ I personally do not believe the role of commander-in-chief should be a president
 > - Department of Labor: Generates government numbers of unemployment, and determines government interaction and policy on labor unions.
 > - Department of the Interior: Responsible for federally owned land. It also administers programs for American Indians, Native Alaskans, and Native Hawaiians.
 > - The Head of ==The CIA== also has a seat on the President's executive cabinet.
-> > [!info]+  The President is the boss of everything listed here, and can ultimately have the final say in any decision they make.
+> > [!info]+  The President is the boss of everything listed above.
+> > He or She can ultimately have the final say in any decisions made, can direclty request things from any department or agency, and is going to drive the agenda + overrall direction + goals these Departments will work towards, with rhetoric, executive orders, signing congressional bills, veto powers, and other things in the presidential toolkit.
 
 There is way too much power condensed into the office. Coupling that with the slowness and inefficiency of the legislative branch (Congress), and the judicial branch (Supreme Court), it's really not surprising that the winner of the presidential election is able to steamroll their agenda through and move as a forceful bloc. Regardless of political leaning, the Executive branch is set up to be the dominant force in the current government.
 
