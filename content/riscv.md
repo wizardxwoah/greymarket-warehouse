@@ -1,5 +1,8 @@
 ---
 title: RISC-V Chinese Boards
+aliases: 
+tags: 
+date: 2024-01-07
 ---
 
 ## Looked pretty interesting
