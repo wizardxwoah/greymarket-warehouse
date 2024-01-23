@@ -1,5 +1,8 @@
 ---
 title: An Independent Commander-in-Chief
+aliases: 
+tags: 
+date: 2024-01-11
 ---
 
 > [!hint] This will be controversial
