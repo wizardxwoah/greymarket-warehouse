@@ -1,5 +1,9 @@
 ---
 title: 🏚️🏭
+aliases: 
+tags: 
+enableToc: "false"
+date: 2024-01-08
 ---
 
 ```json
