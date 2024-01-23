@@ -1,5 +1,8 @@
 ---
 title: Biden Administration Timeline
+aliases: 
+tags: 
+date: 2024-01-09
 ---
 
 > [!Info]+ I voted for Biden.
