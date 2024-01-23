@@ -59,4 +59,4 @@ T-Mobile CEO promises a new phones for welfare receipients after the Sprint-TMob
 
 From what I could tell, they tried scrubbing it but didn't do a very good job.
 
-#oddball #culture
+#oddball
