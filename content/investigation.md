@@ -1,5 +1,8 @@
 ---
 title: Thesis Ideas
+aliases: 
+tags: 
+date: 2024-01-07
 ---
 
 ### #research paper topic list + summary of objectives
