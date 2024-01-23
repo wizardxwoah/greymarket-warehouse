@@ -1,5 +1,8 @@
 ---
 title: Checklist
+aliases: 
+tags: 
+date: 2024-01-09
 ---
 
 - [x] Make money
