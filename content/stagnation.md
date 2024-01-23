@@ -1,5 +1,8 @@
 ---
 title: Stagnating
+aliases: 
+tags: 
+date: 2024-01-07
 ---
 
 ## covid;
