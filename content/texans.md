@@ -1,5 +1,8 @@
 ---
 title: Texans Rebrand
+aliases: 
+tags: 
+date: 2024-01-07
 ---
 
 ## Why the Houston Texans should rebrand
