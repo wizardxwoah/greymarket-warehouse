@@ -2,7 +2,7 @@
 title: An Independent Commander-in-Chief
 aliases: 
 tags: 
-date: 2024-01-11
+date: 2024-01-10
 ---
 
 > [!hint] This will be controversial
