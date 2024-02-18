@@ -56,3 +56,5 @@ What is described here, is permanently preventing the backslide of humanity into
 There would be no limit to how far we could push Artificial Intelligence. There would be no limit to how many hospitals we could build. There would be no limit to how much water we could purify. The electrification of vehicles immediately becomes viable. We wouldn't need to be held hostage by dictators that commanded vital energy resources. The poorest community you can think of could use as much energy as the wealthiest community on earth. It wouldn't matter what continent you were on. It's hard to describe how monumental the consequences of accomplishing the efficient capture of nuclear fusion energy would be.
 
 This is first-class work, by any generations standard.
+
+#tech #culture
