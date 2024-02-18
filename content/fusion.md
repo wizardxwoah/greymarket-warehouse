@@ -17,7 +17,7 @@ This didn't automatically lead to me thinking about problems in a nuclear or phy
 
 So, then, what is a great problem in the 21st century? What is important work? It seems like we have a lot of problems. It might be hard to figure out what is worth the time.
 
-Artificial Intelligence? Censorship? Surveillance? State-funded propaganda? Educational policy? Mental health? Water access for all? Healthcare for everyone? War prevention? Financial transparency for elected officials in the age of Monero? The degrading quality of internet platforms? Sensible migration policy A cure for cancer?
+Artificial Intelligence? Censorship? Surveillance? State-funded propaganda? Educational policy? Mental health? Water access for all? Healthcare for everyone? War prevention? Financial transparency for elected officials in the age of Monero? The degrading quality of internet platforms? A cure for cancer?
 
 I have long been incapable of seeing the bigger picture and being able to drill down into what might actually constitute a great problem. 
 
