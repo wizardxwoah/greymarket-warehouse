@@ -28,7 +28,7 @@ date: 2024-01-09
 ### August
 - Disasterous withdrawal from <a href="https://www.conservapedia.com/Fall_of_Kabul">Afghanistan</a>. Taliban immediately reasserts control over the government.
 ### September
-- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/">Executive Order</a> saying that is necessary to require COVID-19 vaccination for ALL Federal employees. In section 2 says that is 	MANDATORY the vaccination for Federal Employees. 
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/">Executive Order</a> mandates COVID-19 vaccination for all Federal employees. (see: section 2, declaring it mandatory). 
 ### October
 ### November
 - Biden Signs <a href="https://en.wikipedia.org/wiki/Infrastructure_Investment_and_Jobs_Act ">Infrastructure Investment and Jobs Act</a> into law. Reminder this law has a provision that new vehicles manufactured after 2026 must have police remote shut off. Some of the money was used to "make bus stops less racist" as per Biden's Department of Transportation. 
