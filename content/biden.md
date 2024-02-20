@@ -81,7 +81,8 @@ date: 2024-01-09
 ### January
 - U.S. National debt reaches <a href="https://fortune.com/2024/01/02/us-national-debt-hits-record-34-trillion-congress-funding-fight/
 ">$34 Trillion</a>
-### February
+### February 
+- Biden apologizes <a href="https://en.wikipedia.org/wiki/Executive_Order_9066">Executive Order 9066</a>, despite President Gerald Ford having already apologized in 1976 and Reagan signing the <a href="https://en.wikipedia.org/wiki/Civil_Liberties_Act_of_1988">Civil Liberties Act of 1988</a> which granted reparations to living surviving members of the Japanese internment camps.
 ### March
 ### April
 ### May
