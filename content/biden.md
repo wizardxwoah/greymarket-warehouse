@@ -59,7 +59,7 @@ date: 2024-01-09
 
 ### January
 ### February
-- Biden <a href="https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline](https://www.bloomberg.com/news/articles/2023-02-24/biden-defends-ohio-train-wreck-response-not-planning-visit">fails to visit</a> East Palestine, Ohio after train derailment chemical explosion.
+- Biden <a href="https://www.dhs.gov/news/2022/12/05/dhs-announces-extension-real-id-full-enforcement-deadline](https://www.bloomberg.com/news/articles/2023-02-24/biden-defends-ohio-train-wreck-response-not-planning-visit">fails to visit</a> East Palestine, Ohio after train derailment chemical explosion for <a href="https://www.youtube.com/live/DJSaFGvyVJ8?si=vEbbuoN8e_BqdAaE">one entire year</a>.
 ### March)
 ### April
 ### May
