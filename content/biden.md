@@ -22,6 +22,7 @@ date: 2024-01-09
 ### May
 ### June
 ### July
+- Biden signs <a href="https://en.wikipedia.org/wiki/Executive_Order_14036">Executive Order 14036</a> , which created the White House Competition Coucil (Predominately made up of cabinet members and already-high ranking government officials) and "encourages" support for Net Neutrality- without actually encoding anything related to Net Neutrality into law. 
 ### August
 - Disasterous withdrawal from <a href="https://www.conservapedia.com/Fall_of_Kabul">Afghanistan</a>. Taliban immediately reasserts control over the government.
 ### September
