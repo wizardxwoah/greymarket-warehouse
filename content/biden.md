@@ -12,10 +12,12 @@ date: 2024-01-09
 
 ### January
 - <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/">Biden Executive Order</a> revoking a <a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-combating-race-sex-stereotyping/">Trump Executive Order</a> from 2020, and "empowering minorities" by allowing illegal discriminatory hiring practices in the government.
-  
 - <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-protecting-public-health-and-environment-and-restoring-science-to-tackle-climate-crisis/">Executive Order</a> cancelling the keystone pipeline.
-
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-termination-of-emergency-with-respect-to-southern-border-of-united-states-and-redirection-of-funds-diverted-to-border-wall-construction/">Executive Order</a> to proclaim the ending of emergency at the Southern border and redirection funds to border wall construction, leaving the southern border totally vulnerable. They recalled the “wall” as anything that means an impassable physical barrier.
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-preventing-and-combating-discrimination-on-basis-of-gender-identity-or-sexual-orientation/">Executive Order</a> that mentions for the first time that children should learn and not be denied access to restroom, locker room or sports for their gender identity.
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/reinstating-deferred-enforced-departure-for-liberians/">Executive Order</a> to remove any Liberian national or person without nationaily who last habitually resided in Liberian to defer through June 30, 2022. But this did not happen and <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2022/06/27/memorandum-on-extending-and-expanding-eligibility-for-deferred-enforced-departure-for-liberians/">was extended again</a> to June 30, 2024.
 ### February
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/17/executive-order-on-the-revocation-of-executive-order-13801/">Executive Order</a> to revoke the  <a href="https://www.federalregister.gov/documents/2017/06/20/2017-13012/expanding-apprenticeships-in-america">expansion of apprenticeships in America</a>. Which gives Americans paid, relevant workplace experiences and opportunities to get full time jobs. It was a way to combat the inefficient education and workforce development programs. 
 ### March
 - <a href="https://www.investopedia.com/american-rescue-plan-definition-5095694">American Rescue Plan</a> signed into law. A lot more money was printed.
 ### April
@@ -26,6 +28,7 @@ date: 2024-01-09
 ### August
 - Disasterous withdrawal from <a href="https://www.conservapedia.com/Fall_of_Kabul">Afghanistan</a>. Taliban immediately reasserts control over the government.
 ### September
+- <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2021/09/09/executive-order-on-requiring-coronavirus-disease-2019-vaccination-for-federal-employees/">Executive Order</a> saying that is necessary to require COVID-19 vaccination for ALL Federal employees. In section 2 says that is 	MANDATORY the vaccination for Federal Employees. 
 ### October
 ### November
 - Biden Signs <a href="https://en.wikipedia.org/wiki/Infrastructure_Investment_and_Jobs_Act ">Infrastructure Investment and Jobs Act</a> into law. Reminder this law has a provision that new vehicles manufactured after 2026 must have police remote shut off. Some of the money was used to "make bus stops less racist" as per Biden's Department of Transportation. 
