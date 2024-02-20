@@ -70,6 +70,7 @@ date: 2024-01-09
 ### October
 - American credit card debt reaches over  <a href="https://www.forbes.com/sites/forbesfinancecouncil/2023/10/24/americans-now-have-1-trillion-in-credit-card-debt-heres-why/?sh=3c4305a265a1">$1 Trillion</a>
 - <a href="https://en.wikipedia.org/wiki/2023_Israel%E2%80%93Hamas_war">Israel</a> plunged into war after HAMAS launches quantities of munitions that overwhlemed the Iron Dome. Biden White House initially vocally pro-Israel. Backtracks after liberals support terrorism.
+- Report comes out that <a href="https://www.politico.com/news/2023/10/16/biden-oil-reserve-fuels-00121298">nearly half of U.S. oil reserves</a> from the <a href="https://en.wikipedia.org/wiki/Strategic_Petroleum_Reserve_(United_States)">Strategic Petrolium Reserve</a> in 2022.
 ### November
 - <a href="https://www.reuters.com/world/us/pentagon-fails-audit-sixth-year-row-2023-11-16/
 ">Pentagon</a> fails audit for 6th year in a row. Albiet this started in the Trump Administration, clearly nothing has been done to change course.
@@ -82,7 +83,7 @@ date: 2024-01-09
 - U.S. National debt reaches <a href="https://fortune.com/2024/01/02/us-national-debt-hits-record-34-trillion-congress-funding-fight/
 ">$34 Trillion</a>
 ### February 
-- Biden apologizes <a href="https://en.wikipedia.org/wiki/Executive_Order_9066">Executive Order 9066</a>, despite President Gerald Ford having already apologized in 1976 and Reagan signing the <a href="https://en.wikipedia.org/wiki/Civil_Liberties_Act_of_1988">Civil Liberties Act of 1988</a> which granted reparations to living surviving members of the Japanese internment camps.
+- Biden apologizes for <a href="https://en.wikipedia.org/wiki/Executive_Order_9066">Executive Order 9066</a>, despite President Gerald Ford having already apologized in 1976 and President Reagan signing the <a href="https://en.wikipedia.org/wiki/Civil_Liberties_Act_of_1988">Civil Liberties Act of 1988</a> which granted reparations to living surviving members of the Japanese internment camps.
 ### March
 ### April
 ### May
