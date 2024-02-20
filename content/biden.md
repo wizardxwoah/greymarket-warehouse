@@ -61,6 +61,7 @@ date: 2024-01-09
 ### April
 ### May
 - Biden Administration allows <a href="https://www.bbc.com/news/world-us-canada-65477653">Title 42</a> immigration policy to expire.
+- Bide Administration attempts to <a href="https://www.usatoday.com/story/opinion/columnist/2023/05/04/biden-mortgage-rule-credit-score-cost-homebuyers-more/70179031007/">penalize home purchases for those with good credit scores</a> as means to subsidize those with lower credit scores. ==The <a href="https://www.congress.gov/bill/118th-congress/house-bill/3564/all-info">Middle Class Borrower Protection Act</a> passed the House on June 23rd, 2023 and has been sitting in the Senate since July 10th, 2023.==
 ### June
 - <a href="https://nypost.com/2023/06/13/rose-montoya-exposes-breasts-during-white-house-pride-party-after-meeting-biden/">NSFW</a> Pride parade on the White House Lawn.
 ### July
