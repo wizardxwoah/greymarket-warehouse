@@ -25,6 +25,7 @@ date: 2024-01-09
 ### March
 - <a href="https://www.investopedia.com/american-rescue-plan-definition-5095694">American Rescue Plan</a> signed into law. A lot more money was printed.
 ### April
+- <a href="https://www.federalregister.gov/documents/2020/06/15/2020-12953/blocking-property-of-certain-persons-associated-with-the-international-criminal-court">Terminated</a> the Executive Order <a href="https://www.federalregister.gov/documents/2020/06/15/2020-12953/blocking-property-of-certain-persons-associated-with-the-international-criminal-court">13928</a> which had blocked property of certain persons associated with the International Criminal Court (ICC).
 ### May
 ### June
 ### July
